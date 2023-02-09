@@ -91,10 +91,10 @@ namespace HospitalSystem
 
                     secretaryEkran.secretaryID = this.secretaryID;
                     secretaryEkran.numberID = this.numberID;
-                    secretaryEkran.firstName = this.firstName;
-                    secretaryEkran.lastName = this.lastName;
-                    secretaryEkran.password = this.password;
-                    secretaryEkran.phoneNumber = this.phoneNumber;
+                    secretaryEkran.firstName = ent.FirstName;
+                    secretaryEkran.lastName = ent.LastName;
+                    secretaryEkran.password = ent.Password;
+                    secretaryEkran.phoneNumber = ent.PhoneNumber;
 
                     secretaryEkran.Show();
                     this.Close();
