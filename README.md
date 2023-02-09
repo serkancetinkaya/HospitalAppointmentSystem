@@ -1,7 +1,9 @@
 # Hospital Appointment System
 Bu proje, bir üniversite öğrencisi tarafından gerçekleştirilmiş olup Katmanlı Mimari kullanılarak yapılmıştır.
+
 Proje, sekreter ve doktorun kullanabileceği bir randevu oluşturma ve randevu sonuçlandırma sistemidir.
-#NOT: Veri tabanı bağlantısı, projeyi setup.exe dosyasına dönüştürdüğüm için farklıdır. Kullanacak olan kişi kendi veri tabanı yolunu koyabilir.
+
+NOT: Veri tabanı bağlantısı, projeyi setup.exe dosyasına dönüştürdüğüm için farklıdır. Kullanacak olan kişi kendi veri tabanı yolunu koyabilir.
 
 Proje İçinden Görüntüler
 
