@@ -4,6 +4,7 @@ Bu proje, bir üniversite öğrencisi tarafından gerçekleştirilmiş olup Katm
 Proje, sekreter ve doktorun kullanabileceği bir randevu oluşturma ve randevu sonuçlandırma sistemidir.
 
 NOT: Veri tabanı bağlantısı, projeyi setup.exe dosyasına dönüştürdüğüm için farklıdır. Kullanacak olan kişi kendi veri tabanı yolunu koyabilir.
+(DataAccessLayer katmanı içerisinde bulunan Baglanti.cs sınıfı)
 
 Proje İçinden Görüntüler
 
